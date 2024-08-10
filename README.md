@@ -2,6 +2,8 @@
 
 - Estado del proyecto: en construcción
 
-Para poder utilizar el sistema, debe ingresar el comando mp
+Para ejecutar el sistema, debes poner:
 
-```mp.administrate.md```
+```npm install react```
+
+Sistema de Registro 2
